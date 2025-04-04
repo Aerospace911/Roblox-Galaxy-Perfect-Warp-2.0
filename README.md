@@ -4,6 +4,8 @@
 
 One of the original Perfect Warp script made around March 2023
 
+https://www.youtube.com/watch?v=9VXAjGIwf68
+
 Auto warp script from Perfect Warp 1.0 with a refined timer-based warp formula using maptheformula.ahk.
 
 The script is fairly simple. You can use the tools provided in the Perfect Warp 3.5 release.
