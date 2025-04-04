@@ -2,7 +2,7 @@
 
 ## IMPORTANT NOTE: A HIGHIER VERSION NUMBER DOES NOT MEAN IT'S BETTER. IT ONLY SIGNIFIES A DIFFERENT METHOD.
 
-One of the original Perfect Warp script made around June-August 2023
+One of the original Perfect Warp script made around March 2023
 
 Auto warp script from Perfect Warp 1.0 with a refined timer-based warp formula using maptheformula.ahk.
 
